@@ -1,7 +1,7 @@
 # Setting up a Web Server
 
 ## Introdction
-A project to set up web servr using `Docker` and `Nginx`. The project introduces a fictitius cafe website with the name `Erudite Cafe`. 
+A project to set up web server using `Docker` and `Nginx`. The project introduces a fictitius cafe website with the name `Erudite Cafe`. 
 
 ## Project Steps
 
